@@ -5,6 +5,10 @@ body {
     margin: 0;
 }
 
+a {
+    color: inherit;
+}
+
 ul {
     margin: 0;
 }
